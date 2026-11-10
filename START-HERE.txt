@@ -1,0 +1,13 @@
+CONSENT BEFORE TRACKING: START HERE
+
+Using Claude.ai or the Claude app?
+  1. Open the "claude-ai-uploads" folder.
+  2. In Claude: Customize > Skills > + Add > Upload skill.
+  3. Upload the 3 zips from that folder (you can select them all at once).
+  Do NOT upload the big pack zip. Claude only accepts one skill per file.
+
+Using Claude Code?
+  Copy everything in the "skills" folder into ~/.claude/skills/
+
+Then ask Claude: "Run a privacy preflight on my app" and give it your site's URL.
+Full instructions are in README.md.

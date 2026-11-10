@@ -1,0 +1,10 @@
+{
+  "name": "consent-before-tracking",
+  "version": "1.0.0",
+  "description": "Keep vibe-coded apps from tracking visitors before they click Accept: audit what loads before consent, fix it with a default-deny loader and a fair banner, and run a 10-check preflight before every publish.",
+  "author": {
+    "name": "McGivney Media",
+    "email": "shannon@mcgivneymedia.com"
+  },
+  "keywords": ["privacy", "cookie-consent", "tracking-pixel", "vibe-coding", "lovable", "students"]
+}
